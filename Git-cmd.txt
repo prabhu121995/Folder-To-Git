@@ -23,3 +23,5 @@ must created in the server ex : Branch2
 git branch -a ( for check the list of branch)
 git pull (for get the all updated)
 git checkout Branch2 (change the branch)
+We will do all same process in Branch2
+git marge Branch2 (to main)
