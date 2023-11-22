@@ -20,3 +20,6 @@ git branch -M main
 
 Branch
 must created in the server ex : Branch2
+git branch -a ( for check the list of branch)
+git pull (for get the all updated)
+git checkout Branch2 (change the branch)
