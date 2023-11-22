@@ -1,0 +1,21 @@
+config git into machine
+git config --global user.name "username"
+git config --global user.email "username"
+
+GIT-To-Folder
+git clone origin-url
+git status
+git add .
+git commit -m "cmd" - move to staging area 
+git push origin main- to server
+git pull - get the updated words and file from server
+
+Folder-To-GIT
+git init - git package
+git push origin main - you will get the error here bcoz not able to find the origin
+git remote origin origin-url
+git branch = its a master (have to change to main)
+git branch -M main
+
+
+Branch
