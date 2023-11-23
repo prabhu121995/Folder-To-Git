@@ -27,3 +27,9 @@ We will do all same process in Branch2
 git marge Branch2 (to main)
 
 git branch newBranch (create new branch from local)
+push to our branch
+then we have to resie the pull request to boss
+
+
+Conflict
+create new two brach in server
